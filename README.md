@@ -3,7 +3,7 @@
 ###
 
 <h4 align="left">
-  🌍 I'm based in Rio de Janeiro, Brazil<br>
+  🌍 I'm an Italian-Brazilian Professor and Researcher based in Rio de Janeiro, Brazil<br>
   ✉️ You can contact me at contact@leonardovichi.com<br><br>
   🔭 I’m currently working on Machine Learning, Cybersecurity, and Digital Humanities Tools for Classical Languages Studies. I’m also developing material on cybernetic culture, biohacking, and implants.<br><br>
   🌱 I’m currently learning advanced concepts in Natural Language Processing and improving my skills in C++ for embedded systems.<br><br>
