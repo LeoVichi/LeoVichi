@@ -2,7 +2,19 @@
 
 ###
 
-<h4 align="left">*   🌍  I'm based in Rio de Janeiro, Brazil<br>✉️  You can contact me at contact@leonardovichi.com<br><br>🔭 I’m currently working on Machine Learning, Cybersecurity, and Digital Humanities Tools for Classical Languages Studies. I’m also developing material on cybernetic culture, biohacking, and implants.<br><br>🌱 I’m currently learning advanced concepts in Natural Language Processing and improving my skills in C++ for embedded systems.<br><br>👯 I’m looking to collaborate on open-source projects related to machine learning, data analysis, and cybersecurity. I’m particularly interested in projects that involve ethical hacking and the development of secure systems.<br><br>🤔 I’m looking for help with improving my Python code for sentiment analysis and enhancing my C++ implementations for NFC communication. Any advice on optimizing these for performance would be greatly appreciated.<br><br>💬 Ask me about cybersecurity practices, digital ethics, digital humanities, machine learning, or how to effectively integrate AI in research methodologies. I’m also keen to discuss the future of biohacking and cybernetic culture.<br><br>📫 How to reach me: You can reach me via [LinkedIn](https://www.linkedin.com/in/leonardo-perin-vichi/) or through my email: contact@leonardovichi.com.<br><br>😄 Pronouns: He/Him<br><br>⚡ Fun fact: I have five biochip implants that I use for secure access and data storage, and I’m deeply fascinated by the intersection of technology and human biology.</h4>
+<h4 align="left">
+  🌍 I'm based in Rio de Janeiro, Brazil<br>
+  ✉️ You can contact me at contact@leonardovichi.com<br><br>
+  🔭 I’m currently working on Machine Learning, Cybersecurity, and Digital Humanities Tools for Classical Languages Studies. I’m also developing material on cybernetic culture, biohacking, and implants.<br><br>
+  🌱 I’m currently learning advanced concepts in Natural Language Processing and improving my skills in C++ for embedded systems.<br><br>
+  👯 I’m looking to collaborate on open-source projects related to machine learning, data analysis, and cybersecurity. I’m particularly interested in projects that involve ethical hacking and the development of secure systems.<br><br>
+  🤔 I’m looking for help with improving my Python code for sentiment analysis and enhancing my C++ implementations for NFC communication. Any advice on optimizing these for performance would be greatly appreciated.<br><br>
+  💬 Ask me about cybersecurity practices, digital ethics, digital humanities, machine learning, or how to effectively integrate AI in research methodologies. I’m also keen to discuss the future of biohacking and cybernetic culture.<br><br>
+  📫 How to reach me: You can reach me via <a href="https://www.linkedin.com/in/leonardo-perin-vichi/">LinkedIn</a> or through my email: contact@leonardovichi.com.<br><br>
+  😄 Pronouns: He/Him<br><br>
+  ⚡ Fun fact: I have five biochip implants that I use for secure access and data storage, and I’m deeply fascinated by the intersection of technology and human biology.
+</h4>
+
 
 ###
 
@@ -36,8 +48,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/LeoVichi/LeoVichi/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <h2 align="left">💡 Portfolio</h2>
@@ -50,7 +60,7 @@
 
 ###
 
-<h4 align="left">➡️ Check out leonardovichi.com and retrocyb.org</h4>
+<h4 align="left">➡️ Check out <a href="https://leonardovichi.com">leonardovichi.com</a> and <a href="https://retrocyb.org">retrocyb.org</a></h4>
 
 ###
 
